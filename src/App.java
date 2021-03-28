@@ -48,7 +48,7 @@ public class App {
 
                     uf.set(keyFormatted);
                     // total.set(Float.valueOf(df.format(valFormattedFloat)));
-                    total.set(Float.valueOf(valFormattedFloat)));
+                    total.set(Float.valueOf(valFormattedFloat));
                 } catch (NumberFormatException e) {
                     System.err.println(e);
                 }
