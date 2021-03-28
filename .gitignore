@@ -1,0 +1,8 @@
+.idea
+.vscode
+teste.txt
+/output
+/out
+bolsa_familia.iml
+*.log
+log.txt
